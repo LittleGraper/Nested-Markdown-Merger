@@ -1,7 +1,7 @@
 
 # Script to Retrieve and Merge Markdown Files
 
-This script is designed to scan a large directory, including its nested subfolders, and retrieve all Markdown (`.md`) files. It then merges the content of these files into a single output file. This is useful for consolidating multiple Markdown files from various sources into one comprehensive document.
+This script is designed to scan a large directory, including its nested subfolders, and retrieve all Markdown (`.md/.mdx`) files. It then merges the content of these files into a single output file. This is useful for consolidating multiple Markdown files from various sources into one comprehensive document.
 
 ### Features:
 - **Recursive Search**: Supports searching for Markdown files in nested subfolders.
@@ -12,7 +12,7 @@ This script is designed to scan a large directory, including its nested subfolde
 
 # 检索并合并Markdown文件的脚本
 
-此脚本旨在扫描一个大目录，包括其嵌套的子文件夹，并检索所有Markdown（`.md`）文件。然后，它将这些文件的内容合并成一个输出文件。这对于将来自不同来源的多个Markdown文件整合成一个综合文档非常有用。
+此脚本旨在扫描一个大目录，包括其嵌套的子文件夹，并检索所有Markdown（`.md/.mdx`）文件。然后，它将这些文件的内容合并成一个输出文件。这对于将来自不同来源的多个Markdown文件整合成一个综合文档非常有用。
 
 ### 特性：
 - **递归搜索**：支持在嵌套的子文件夹中搜索Markdown文件。
